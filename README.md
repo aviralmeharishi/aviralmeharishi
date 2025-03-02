@@ -39,8 +39,16 @@
 🔗 **Live App**: [Hotel Booking Cancellation](https://gij9bnhtqtz6kmfsyp7pyd.streamlit.app/)  
 - Addressed **class imbalance** and applied inferential statistical techniques.  
 - Evaluated multiple models (**Logistic Regression, Decision Tree, Random Forest, AdaBoost**).  
-- After **fine-tuning with GridSearchCV**, **XGBoost achieved an accuracy of 0.77 and F1-score of 0.69**.  
+- After **fine-tuning with GridSearchCV**, **XGBoost achieved an accuracy of 0.77 and F1-score of 0.69**.
 
+### 🧠** Are You Depressed? AI Knows!!! **🤔💭
+🔗 Live App: [Are You Depressed?](https://are-you-depressed.streamlit.app/)
+- Analyzes lifestyle, demographic, and psychological factors to predict depression probability.
+- Provides **bilingual AI-generated mental health insights** (English & Hindi).
+- Incorporates **Google Gemini AI** for **personalized well-being suggestions**.
+- Color-coded results: 🔴 High Risk | 🟢 Low Risk for easy interpretation.
+
+  
 ### 🚛 **Supply Chain Management (SQL Project)**  
 - Optimized **SQL queries** for analyzing supply chain performance.  
 - Focused on **inventory management, supplier performance, and order tracking**.  
