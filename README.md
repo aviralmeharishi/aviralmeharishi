@@ -41,7 +41,7 @@
 - Evaluated multiple models (**Logistic Regression, Decision Tree, Random Forest, AdaBoost**).  
 - After **fine-tuning with GridSearchCV**, **XGBoost achieved an accuracy of 0.77 and F1-score of 0.69**.
 
-### 🧠** Are You Depressed? AI Knows!!! **🤔💭
+### 🧠**Are You Depressed? AI Knows!!!**🤔💭
 🔗 Live App: [Are You Depressed?](https://are-you-depressed.streamlit.app/)
 - Analyzes lifestyle, demographic, and psychological factors to predict depression probability.
 - Provides **bilingual AI-generated mental health insights** (English & Hindi).
