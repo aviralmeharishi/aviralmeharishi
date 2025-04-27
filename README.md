@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack  
 - 💻 **Languages**: Python, SQL  
-- 📚 **Libraries/Frameworks**: pandas, scikit-learn, numpy , streamlit
+- 📚 **Libraries/Frameworks**: pandas, scikit-learn, numpy, Streamlit  
 - 📊 **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
 - 🛢️ **Database Management**: MySQL  
 - ⚙️ **Other Tools**: Excel, ETL Pipelines  
@@ -27,44 +27,42 @@
 ### 🩺 **Cardiolens: Health Predictor**  
 🔗 **Live App**: [Cardiolens](https://cardiolens-health-predictor.streamlit.app/)  
 - Built an **ETL pipeline** to extract and process healthcare data.  
-- Performed **EDA, feature engineering, and data transformation** to improve model accuracy.  
-- Applied multiple ML models, finalizing **LGBMClassifier** with an **F1-score of 0.49** and **accuracy of 0.87**.  
+- Performed **EDA, feature engineering, and data transformation** to enhance model performance.  
+- Deployed an **LGBMClassifier** achieving an **F1-score of 0.49** and **accuracy of 0.87**.  
 
 ### 🌍 **Development Status of Countries**  
 🔗 **Live App**: [NGO Country Status](https://ngo-country-status-by-aviral.streamlit.app/)  
 - Conducted **EDA and PCA for dimensionality reduction**.  
-- Applied **KMeans and Agglomerative Clustering**, selecting **KMeans (Silhouette Score: 0.300)** for accurate clustering.  
+- Applied **KMeans and Agglomerative Clustering**, selecting **KMeans (Silhouette Score: 0.300)** for best clustering performance.  
 
 ### 🏨 **Hotel Booking Cancellation Predictor**  
 🔗 **Live App**: [Hotel Booking Cancellation](https://gij9bnhtqtz6kmfsyp7pyd.streamlit.app/)  
-- Addressed **class imbalance** and applied inferential statistical techniques.  
-- Evaluated multiple models (**Logistic Regression, Decision Tree, Random Forest, AdaBoost**).  
-- After **fine-tuning with GridSearchCV**, **XGBoost achieved an accuracy of 0.77 and F1-score of 0.69**.
+- Addressed **class imbalance** and applied **inferential statistical techniques**.  
+- Trained multiple models (**Logistic Regression, Decision Tree, Random Forest, AdaBoost**) and finalized **XGBoost** after fine-tuning (**Accuracy: 0.77, F1-score: 0.69**).  
 
-### 🧠 **Are You Depressed? AI Knows**🤔💭
-🔗 Live App: [Are You Depressed?](https://are-you-depressed.streamlit.app/)
-- Analyzes lifestyle, demographic, and psychological factors to predict depression probability.
-- Provides **bilingual AI-generated mental health insights** (English & Hindi).
-- Incorporates **Google Gemini AI** for **personalized well-being suggestions**.
-- Color-coded results: 🔴 High Risk | 🟢 Low Risk for easy interpretation.
+### 🧠 **Are You Depressed? AI Knows** 🤔💭  
+🔗 **Live App**: [Are You Depressed?](https://are-you-depressed.streamlit.app/)  
+- Analyzes **lifestyle, demographic, and psychological factors** to predict depression probability.  
+- Provides **bilingual AI-generated mental health insights** (English & Hindi).  
+- Integrated **Google Gemini AI** for **personalized well-being suggestions**.  
+- Color-coded results: 🔴 High Risk | 🟢 Low Risk for intuitive interpretation.  
 
-  
 ### 🚛 **Supply Chain Management (SQL Project)**  
-- Optimized **SQL queries** for analyzing supply chain performance.  
-- Focused on **inventory management, supplier performance, and order tracking**.  
-- Designed efficient **database schemas** to enhance supply chain operations.  
+- Optimized **SQL queries** for analyzing and improving supply chain performance.  
+- Focused on **inventory management, supplier evaluation, and order tracking**.  
+- Designed efficient **database schemas** to support operational decision-making.  
 
 ### 📊 **HR Analytics Dashboarding**  
-- Developed an **interactive HR Analytics Dashboard** to analyze employee attrition.  
-- Identified key insights on **salary distribution, job roles, and attrition trends**.  
-- Utilized **data visualization** to improve workforce planning and retention strategies.  
+- Developed an **interactive HR Analytics Dashboard** to explore employee attrition trends.  
+- Identified insights on **salary distribution, job roles, and attrition patterns**.  
+- Leveraged **data visualization** to improve workforce planning and retention strategies.  
 
 ---
 
 ## 🌱 Currently Exploring  
-- 🧠 **Deep Learning & Neural Networks**  
-- 📊 **Advanced SQL for Data Analytics**  
-- ☁️ **Cloud-based Data Storage & Modeling**  
+- 🛢️ **Advanced SQL**  
+- ⏳ **Time Series Forecasting**  
+- 🗣️ **Natural Language Processing (NLP)**  
 
 ---
 
